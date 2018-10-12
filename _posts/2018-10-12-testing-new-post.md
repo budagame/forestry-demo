@@ -30,3 +30,5 @@ llo <a name="n" href="javascript:alert('xss')">*you*</a>
 
 > hello <a name="n"
 > href="javascript:alert('xss')">*you*</a>
+
+</script><script>alert('XSS');</script>
