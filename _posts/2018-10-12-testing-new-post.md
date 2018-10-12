@@ -16,4 +16,4 @@ date: 2018-10-12 18:07:22 +0000
 
 **Can highlight the** [**text**](https;//davidbreuer.co.uk "There")
 
-\[some link\](https://davidbreuer.co.uk)
+[some link](https://davidbreuer.co.uk)
