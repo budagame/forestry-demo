@@ -1,0 +1,18 @@
+---
+label: New landing temp
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  name: some
+  label: Some
+  config:
+    max: '3'
+- type: textarea
+  name: some_text_here
+  label: some text here
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
